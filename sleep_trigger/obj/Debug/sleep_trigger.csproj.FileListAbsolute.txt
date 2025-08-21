@@ -1,7 +1,0 @@
-D:\Ardawan\Programming\C#\sleep_trigger\sleep_trigger\bin\Debug\sleep_trigger.exe.config
-D:\Ardawan\Programming\C#\sleep_trigger\sleep_trigger\bin\Debug\sleep_trigger.exe
-D:\Ardawan\Programming\C#\sleep_trigger\sleep_trigger\bin\Debug\sleep_trigger.pdb
-D:\Ardawan\Programming\C#\sleep_trigger\sleep_trigger\obj\Debug\sleep_trigger.csproj.AssemblyReference.cache
-D:\Ardawan\Programming\C#\sleep_trigger\sleep_trigger\obj\Debug\sleep_trigger.csproj.CoreCompileInputs.cache
-D:\Ardawan\Programming\C#\sleep_trigger\sleep_trigger\obj\Debug\sleep_trigger.exe
-D:\Ardawan\Programming\C#\sleep_trigger\sleep_trigger\obj\Debug\sleep_trigger.pdb
